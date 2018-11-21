@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://angga0304.github.io/demo-todo/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-app-rewire-hot-loader": "^1.0.3",
     "react-app-rewired": "^1.6.2",
@@ -30,5 +29,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
